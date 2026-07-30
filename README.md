@@ -6,7 +6,7 @@ Banele Nelson
 to me
 <p align="center">
 <a href="https://github.com/banelenelson02">
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Banele%20Nelson%20Ntuli%2C%20a%20Software%20Developer%20based%20in%20Johannesburg.%20I%20love%20building%20real%20world%20projects." alt="Hello! I&#39;m Banele Nelson Ntuli, a Software Developer based in Johannesburg. I love building real world projects." />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Banele%20Nelson%20Ntuli%2C%20a%20Software%20Developer%20based%20in%20Johannesburg.%20I%20love%20building%20real%20world%20projects." alt="Hello! I&#39;m Banele Nelson Ntuli, Data Engineer in training | Building SA's grocery price intelligence platform |WeThinkCode_ student · Peer Tutor ." />
 </a>
 </p>
 
@@ -16,13 +16,22 @@ to me
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Data pipelines and web platforms**
+🔭 &nbsp;Building SA Grocery Price Intelligence — an ETL pipeline 
+   tracking grocery prices across 10 SA retailers**
 🌱 &nbsp;I'm currently learning **Data engineering and cloud systems**
 👯 &nbsp;I'm looking to collaborate on **Open source software projects**
 🤔 &nbsp;I'm looking for help with **Advanced cloud infrastructure**
 💬 &nbsp;Ask me about **Python, Java, FastAPI, and SQL**
 😄 &nbsp;Pronouns: **He/Him**
 ⚡ &nbsp;Fun fact: **I can talk about football tactics for hours**
+
+### 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [SA Grocery Intelligence](https://github.com/Banelenelson02/sa-grocery-intelligence) | ETL pipeline tracking SA grocery prices with inflation analytics | Python · Airflow · PostgreSQL · FastAPI · React |
+| [Plateable Eats](https://platableeats-production.up.railway.app) | Full-stack restaurant ordering system — live on Railway | Java · Spring Boot · PostgreSQL · Vanilla JS |
+| [FUTURE_DS_01](https://github.com/Banelenelson02/FUTURE_DS_01) | Retail sales analytics — caught a December data truncation artifact | Python · Pandas · Jupyter |
 
 ### 🛠️ Tech Stack
 
